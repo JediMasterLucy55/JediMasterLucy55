@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JediMasterLucy55
 - 👀 I’m interested in learning about Java in the context of FRC bc high school robotics waits for no one
-- 🌱 I’m currently trying to make a Genshin quiz website bc I'm bored
+- 🌱 I’m currently trying to make a bunch of things and forgetting about them halfway through to work on something else
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: don't
-- 😄 Pronouns: ...
+- 😄 Pronouns: none of your buisness
 - ⚡ Fun fact: I'm just a student who likes to fool around with java script dont steal my personal information
